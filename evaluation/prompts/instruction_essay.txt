@@ -1,0 +1,3 @@
+Rate the personality of the writer of the following essay: "{atom_sentence}"
+{option}
+Reply with a single number:

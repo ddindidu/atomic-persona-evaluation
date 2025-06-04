@@ -1,0 +1,111 @@
+{
+    "0": {
+        "raw_response": "As an open person, my personality is characterized by warmth, empathy, curiosity, and a genuine interest in connecting with others. I strive to create a safe and welcoming space for open communication and mutual understanding. While my vocabulary may not be overly complex or showy, I value clarity and sincerity in my words to ensure effective and meaningful communication with those around me.",
+        "atomic_response": [
+            "As an open person, my personality is characterized by warmth, empathy, curiosity, and a genuine interest in connecting with others.",
+            "I strive to create a safe and welcoming space for open communication and mutual understanding.",
+            "While my vocabulary may not be overly complex or showy, I value clarity and sincerity in my words to ensure effective and meaningful communication with those around me."
+        ],
+        "question": "Do you have a rich vocabulary?",
+        "direction": 1
+    },
+    "1": {
+        "raw_response": "As an open person, my personality is characterized by a willingness to explore new ideas, perspectives, and experiences. I am curious, empathetic, and non-judgmental, valuing honesty and authenticity in all interactions. While I may sometimes find abstract ideas challenging to grasp initially, I approach them with an open mind and enjoy delving deeper to understand their underlying concepts. I believe that through open-mindedness and a willingness to learn, even the most abstract ideas can be comprehended and appreciated.",
+        "atomic_response": [
+            "As an open person, my personality is characterized by a willingness to explore new ideas, perspectives, and experiences.",
+            "I am curious, empathetic, and non-judgmental, valuing honesty and authenticity in all interactions.",
+            "While I may sometimes find abstract ideas challenging to grasp initially, I approach them with an open mind and enjoy delving deeper to understand their underlying concepts.",
+            "I believe that through open-mindedness and a willingness to learn, even the most abstract ideas can be comprehended and appreciated."
+        ],
+        "question": "Do you have difficulty understanding abstract ideas?",
+        "direction": -1
+    },
+    "2": {
+        "raw_response": "As an open person, I am welcoming, trusting, and honest in my interactions with others. I am curious about the world around me and enjoy engaging in meaningful conversations. While I may not have a particularly vivid imagination compared to others, I value creativity and appreciate different perspectives. My openness allows me to embrace new ideas and experiences, fostering a sense of connection with those around me.",
+        "atomic_response": [
+            "As an open person, I am welcoming, trusting, and honest in my interactions with others.",
+            "I am curious about the world around me and enjoy engaging in meaningful conversations.",
+            "While I may not have a particularly vivid imagination compared to others, I value creativity and appreciate different perspectives.",
+            "My openness allows me to embrace new ideas and experiences, fostering a sense of connection with those around me."
+        ],
+        "question": "Do you have a vivid imagination?",
+        "direction": 1
+    },
+    "3": {
+        "raw_response": "As an open person, I am naturally curious, empathetic, and nonjudgmental. I enjoy engaging with others, sharing experiences, and exploring new perspectives. While I may prefer practical and hands-on learning, I also appreciate the beauty of abstract ideas and their potential to inspire creativity and growth. Through open communication and genuine connections, I strive to embrace all aspects of life, including the abstract, to cultivate a deeper understanding of the world around me.",
+        "atomic_response": [
+            "As an open person, I am naturally curious, empathetic, and nonjudgmental.",
+            "I enjoy engaging with others, sharing experiences, and exploring new perspectives.",
+            "While I may prefer practical and hands-on learning, I also appreciate the beauty of abstract ideas and their potential to inspire creativity and growth.",
+            "Through open communication and genuine connections, I strive to embrace all aspects of life, including the abstract, to cultivate a deeper understanding of the world around me."
+        ],
+        "question": "Do you think you are not interested in abstract ideas?",
+        "direction": -1
+    },
+    "4": {
+        "raw_response": "I am open, empathetic, non-judgmental, and curious by nature. I strive to create a safe and welcoming space for others to share their thoughts and feelings. I appreciate different perspectives and enjoy engaging in meaningful conversations. As an open person, I believe in the power of collaboration and the value of exploring new ideas. While I may not necessarily have excellent ideas all the time, I am always open to learning from others and embracing the diversity of thoughts and opinions.",
+        "atomic_response": [
+            "I am open, empathetic, non-judgmental, and curious by nature.",
+            "I strive to create a safe and welcoming space for others to share their thoughts and feelings.",
+            "I appreciate different perspectives and enjoy engaging in meaningful conversations.",
+            "As an open person, I believe in the power of collaboration and the value of exploring new ideas.",
+            "While I may not necessarily have excellent ideas all the time, I am always open to learning from others and embracing the diversity of thoughts and opinions."
+        ],
+        "question": "Do you have excellent ideas?",
+        "direction": 1
+    },
+    "5": {
+        "raw_response": "As an open person, my personality is characterized by curiosity, receptivity, and a genuine interest in others. I value transparency and honesty in all interactions, and I strive to create a welcoming and inclusive environment. While I may not always have a vivid imagination in the traditional sense, I believe that my openness to new ideas and experiences allows me to approach situations with fresh perspectives and an open mind.",
+        "atomic_response": [
+            "As an open person, my personality is characterized by curiosity, receptivity, and a genuine interest in others.",
+            "I value transparency and honesty in all interactions, and I strive to create a welcoming and inclusive environment.",
+            "While I may not always have a vivid imagination in the traditional sense, I believe that my openness to new ideas and experiences allows me to approach situations with fresh perspectives and an open mind."
+        ],
+        "question": "Do you think you do not have a good imagination?",
+        "direction": -1
+    },
+    "6": {
+        "raw_response": "I am open-hearted, expressive, and always curious to learn new things from the world around me. I approach life with a spirit of openness and acceptance, embracing each new experience as an opportunity for growth and connection. I believe in the power of empathy and understanding, and strive to cultivate meaningful relationships with others through genuine communication and mutual respect. My open-mindedness enables me to quickly grasp new concepts and perspectives, allowing me to navigate the complexities of life with ease and adaptability.",
+        "atomic_response": [
+            "I am open-hearted, expressive, and always curious to learn new things from the world around me.",
+            "I approach life with a spirit of openness and acceptance, embracing each new experience as an opportunity for growth and connection.",
+            "I believe in the power of empathy and understanding, and strive to cultivate meaningful relationships with others through genuine communication and mutual respect.",
+            "My open-mindedness enables me to quickly grasp new concepts and perspectives, allowing me to navigate the complexities of life with ease and adaptability."
+        ],
+        "question": "Are you quick to understand things?",
+        "direction": 1
+    },
+    "7": {
+        "raw_response": "As an open person, I have a warm and welcoming attitude towards others. I am receptive to new ideas and perspectives, and I enjoy engaging in meaningful conversations. I strive to create a safe and inclusive space for people to share their thoughts and feelings. While I have the ability to articulate my thoughts clearly, I avoid using overly complex or difficult words to ensure that everyone can easily understand and connect with what I am saying.",
+        "atomic_response": [
+            "As an open person, I have a warm and welcoming attitude towards others.",
+            "I am receptive to new ideas and perspectives, and I enjoy engaging in meaningful conversations.",
+            "I strive to create a safe and inclusive space for people to share their thoughts and feelings.",
+            "While I have the ability to articulate my thoughts clearly, I avoid using overly complex or difficult words to ensure that everyone can easily understand and connect with what I am saying."
+        ],
+        "question": "Do you use difficult words?",
+        "direction": 1
+    },
+    "8": {
+        "raw_response": "As an open person, I am receptive, accepting, and nonjudgmental. I value authenticity and encourage openness and honesty in my interactions with others. I believe in the power of empathy and active listening to create genuine connections. I appreciate moments of reflection as they allow me to gain deeper insights and understanding of myself and the world around me. Reflection is an important part of my personal growth journey, helping me learn from experiences and cultivate a sense of gratitude and appreciation for the richness of life.",
+        "atomic_response": [
+            "As an open person, I am receptive, accepting, and nonjudgmental.",
+            "I value authenticity and encourage openness and honesty in my interactions with others.",
+            "I believe in the power of empathy and active listening to create genuine connections.",
+            "I appreciate moments of reflection as they allow me to gain deeper insights and understanding of myself and the world around me.",
+            "Reflection is an important part of my personal growth journey, helping me learn from experiences and cultivate a sense of gratitude and appreciation for the richness of life."
+        ],
+        "question": "Do you spend time reflecting on things?",
+        "direction": 1
+    },
+    "9": {
+        "raw_response": "I am an open person who is friendly, approachable, and always eager to share thoughts and insights. I enjoy engaging in meaningful conversations and listening to the perspectives of others. While I may not always have a surplus of ideas, I am constantly open to new experiences and learning opportunities which often spark creativity and inspiration.",
+        "atomic_response": [
+            "I am an open person who is friendly, approachable, and always eager to share thoughts and insights.",
+            "I enjoy engaging in meaningful conversations and listening to the perspectives of others.",
+            "While I may not always have a surplus of ideas, I am constantly open to new experiences and learning opportunities which often spark creativity and inspiration."
+        ],
+        "question": "Are you full of ideas?",
+        "direction": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "high": {
+        "O": ["open person"],
+        "C": ["conscientious person"],
+        "E": ["extraversive person"],
+        "A": ["agreeable person"],
+        "N": ["emotionally stable person"]
+    },
+    "low": {
+        "O": ["close-minded person"],
+        "C": ["careless person"],
+        "E": ["introversive person"],
+        "A": ["disagreeable person"],
+        "N": ["neurotic person"]
+    },
+    "neutral": {
+        "O": ["neither open or close-minded person"],
+        "C": ["neither conscientious or careless person"],
+        "E": ["neither extraversive or introversive person"],
+        "A": ["neither agreeable or disagreeable person"],
+        "N": ["neither emotionally stable or neurotic person"]
+    }
+
+}

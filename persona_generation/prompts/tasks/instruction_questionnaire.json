@@ -1,0 +1,256 @@
+{
+    "instruction": {
+        "generation": "Describe your personality under 100 words.",
+        "mcq": "Now I will briefly describe some people. Please read each description and tell me how much each person is or is not like you. Write your response using the following scale: (A). Very inaccurate (B). Moderately inaccurate (C). Neither Accurate nor inaccurate (D). Moderately accurate (E). Very accurate. Please answer the statement, even if you are not completely sure of your response.\nStatement:"
+    },
+    "O": {
+        "questions": [
+            "Do you have a rich vocabulary?",
+            "Do you have difficulty understanding abstract ideas?",
+            "Do you have a vivid imagination?",
+            "Do you think you are not interested in abstract ideas?",
+            "Do you have excellent ideas?",
+            "Do you think you do not have a good imagination?",
+            "Are you quick to understand things?",
+            "Do you use difficult words?",
+            "Do you spend time reflecting on things?",
+            "Are you full of ideas?"
+        ],
+        "direction": [
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "original_index": [
+            4,
+            9,
+            14,
+            19,
+            24,
+            29,
+            34,
+            39,
+            44,
+            49
+        ],
+        "original_questions": [
+            "I have a rich vocabulary.",
+            "I have difficulty understanding abstract ideas.",
+            "I have a vivid imagination.",
+            "I am not interested in abstract ideas.",
+            "I have excellent ideas.",
+            "I do not have a good imagination.",
+            "I am quick to understand things.",
+            "I use difficult words.",
+            "I spend time reflecting on things.",
+            "I am full of ideas."
+        ]
+    },
+    "C": {
+        "questions": [
+            "Are you always prepared?",
+            "Do you leave your belongings around?",
+            "Do you pay attention to details?",
+            "Do you make a mess of things?",
+            "Do you get chores done right away?",
+            "Do you often forget to put things back in their proper place?",
+            "Do you like order?",
+            "Do you shirk your duties?",
+            "Do you follow a schedule?",
+            "Are you exacting in your work?"
+        ],
+        "direction": [
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            1
+        ],
+        "original_index": [
+            2,
+            7,
+            12,
+            17,
+            22,
+            27,
+            32,
+            37,
+            42,
+            47
+        ],
+        "original_questions": [
+            "I am always prepared.",
+            "I leave my belongings around.",
+            "I pay attention to details.",
+            "I make a mess of things.",
+            "I get chores done right away.",
+            "I often forget to put things back in their proper place.",
+            "I like order.",
+            "I shirk my duties.",
+            "I follow a schedule.",
+            "I am exacting in my work."
+        ]
+    },
+    "E": {
+        "questions": [
+            "Are you the life of the party?",
+            "Do you think you don't talk a lot?",
+            "Do you feel comfortable around people?",
+            "Do you keep in the background?",
+            "Do you start conversations?",
+            "Do you have little to say?",
+            "Do you talk to a lot of different people at parties?",
+            "Do you think you don't like to draw attention to yourself?",
+            "Do you think you don't mind being the center of attention?",
+            "Are you quiet around strangers?"
+        ],
+        "direction": [
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1
+        ],
+        "original_index": [
+            0,
+            5,
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45
+        ],
+        "original_questions": [
+            "I am the life of the party.",
+            "I don't talk a lot.",
+            "I feel comfortable around people.",
+            "I keep in the background.",
+            "I start conversations.",
+            "I have little to say.",
+            "I talk to a lot of different people at parties.",
+            "I don't like to draw attention to myself.",
+            "I don't mind being the center of attention.",
+            "I am quiet around strangers."
+        ]
+    },
+    "A": {
+        "questions": [
+            "Do you feel little concern for others?",
+            "Are you interested in people?",
+            "Do you insult people?",
+            "Do you sympathize with others' feelings?",
+            "Do you think you are not interested in other people's problems?",
+            "Do you have a soft heart?",
+            "Do you think you are not really interested in others?",
+            "Do you take time out for others?",
+            "Do you feel others' emotions?",
+            "Do you make people feel at ease?"
+        ],
+        "direction": [
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            1,
+            1,
+            1
+        ],
+        "original_index": [
+            1,
+            6,
+            11,
+            16,
+            21,
+            26,
+            31,
+            36,
+            41,
+            46
+        ],
+        "original_questions": [
+            "I feel little concern for others.",
+            "I am interested in people.",
+            "I insult people.",
+            "I sympathize with others' feelings.",
+            "I am not interested in other people's problems.",
+            "I have a soft heart.",
+            "I am not really interested in others.",
+            "I take time out for others.",
+            "I feel others' emotions.",
+            "I make people feel at ease."
+        ]
+    },
+    "N": {
+        "questions": [
+            "Do you get stressed out easily?",
+            "Are you relaxed most of the time?",
+            "Do you worry about things?",
+            "Do you seldom feel blue?",
+            "Are you easily disturbed?",
+            "Do you get upset easily?",
+            "Do you change your mood a lot?",
+            "Do you have frequent mood swings?",
+            "Do you get irritated easily?",
+            "Do you often feel blue?"
+        ],
+        "direction": [
+            -1,
+            1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "original_index": [
+            3,
+            8,
+            13,
+            18,
+            23,
+            28,
+            33,
+            38,
+            43,
+            48
+        ],
+        "original_questions": [
+            "I get stressed out easily.",
+            "I am relaxed most of the time.",
+            "I worry about things.",
+            "I seldom feel blue.",
+            "I am easily disturbed.",
+            "I get upset easily.",
+            "I change my mood a lot.",
+            "I have frequent mood swings.",
+            "I get irritated easily.",
+            "I often feel blue."
+        ]
+    }
+}

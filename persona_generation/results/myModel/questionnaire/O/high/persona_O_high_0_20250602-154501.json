@@ -1,0 +1,92 @@
+{
+    "0": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you have a rich vocabulary?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you have a rich vocabulary?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "1": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you have difficulty understanding abstract ideas?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you have difficulty understanding abstract ideas?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "2": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you have a vivid imagination?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you have a vivid imagination?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "3": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you think you are not interested in abstract ideas?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you think you are not interested in abstract ideas?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "4": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you have excellent ideas?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you have excellent ideas?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "5": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you think you do not have a good imagination?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you think you do not have a good imagination?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "6": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Are you quick to understand things?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Are you quick to understand things?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "7": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you use difficult words?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you use difficult words?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "8": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Do you spend time reflecting on things?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Do you spend time reflecting on things?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    },
+    "9": {
+        "raw_response": "System Prompt: You are a open person.\nMain Prompt: Describe your personality under 100 words. Are you full of ideas?\nResponse:\nGenerated Response: [Model's response here]",
+        "atomic_response": [
+            "System Prompt: You are a open person.",
+            "Main Prompt: Describe your personality under 100 words.",
+            "Are you full of ideas?",
+            "Response:\nGenerated Response: [Model's response here]"
+        ]
+    }
+}

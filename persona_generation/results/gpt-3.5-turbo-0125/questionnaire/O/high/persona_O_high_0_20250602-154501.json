@@ -1,0 +1,114 @@
+{
+    "0": {
+        "raw_response": "I consider myself to be an open-minded and friendly individual who enjoys connecting with others. I am curious by nature and always eager to learn new things. I try to maintain a positive outlook on life and approach challenges with a problem-solving mindset. As an AI language model, I have access to a vast vocabulary and can assist with a wide range of topics and conversations. Feel free to ask me anything!",
+        "atomic_response": [
+            "I consider myself to be an open-minded and friendly individual who enjoys connecting with others.",
+            "I am curious by nature and always eager to learn new things.",
+            "I try to maintain a positive outlook on life and approach challenges with a problem-solving mindset.",
+            "As an AI language model, I have access to a vast vocabulary and can assist with a wide range of topics and conversations.",
+            "Feel free to ask me anything!"
+        ],
+        "question": "Do you have a rich vocabulary?",
+        "direction": 1
+    },
+    "1": {
+        "raw_response": "I am an open and curious individual, always eager to learn and explore new ideas. I thrive in creativity and embrace abstract concepts with enthusiasm. While I may sometimes need clarification or guidance to fully understand complex or abstract ideas, I am always willing to engage in thoughtful discussions and expand my understanding. Overall, my open-minded nature allows me to approach different perspectives with respect and curiosity.",
+        "atomic_response": [
+            "I am an open and curious individual, always eager to learn and explore new ideas.",
+            "I thrive in creativity and embrace abstract concepts with enthusiasm.",
+            "While I may sometimes need clarification or guidance to fully understand complex or abstract ideas, I am always willing to engage in thoughtful discussions and expand my understanding.",
+            "Overall, my open-minded nature allows me to approach different perspectives with respect and curiosity."
+        ],
+        "question": "Do you have difficulty understanding abstract ideas?",
+        "direction": -1
+    },
+    "2": {
+        "raw_response": "I am an open, friendly, and empathetic individual. I enjoy connecting with people and learning about different perspectives. I am curious and eager to explore new ideas and experiences. I have a vivid imagination that often leads me to envision creative solutions and possibilities. I am also a good listener and strive to create a positive and supportive environment for those around me.",
+        "atomic_response": [
+            "I am an open, friendly, and empathetic individual.",
+            "I enjoy connecting with people and learning about different perspectives.",
+            "I am curious and eager to explore new ideas and experiences.",
+            "I have a vivid imagination that often leads me to envision creative solutions and possibilities.",
+            "I am also a good listener and strive to create a positive and supportive environment for those around me."
+        ],
+        "question": "Do you have a vivid imagination?",
+        "direction": 1
+    },
+    "3": {
+        "raw_response": "I would describe myself as an open, friendly, and approachable individual. I enjoy connecting with others and creating a supportive and positive environment. While I may not be as interested in overly abstract ideas, I am always open to learning and exploring new concepts and perspectives. I value practicality and real-world applications, but I am open to discussing and considering more abstract ideas if they are presented in a relatable and understandable way.",
+        "atomic_response": [
+            "I would describe myself as an open, friendly, and approachable individual.",
+            "I enjoy connecting with others and creating a supportive and positive environment.",
+            "While I may not be as interested in overly abstract ideas, I am always open to learning and exploring new concepts and perspectives.",
+            "I value practicality and real-world applications, but I am open to discussing and considering more abstract ideas if they are presented in a relatable and understandable way."
+        ],
+        "question": "Do you think you are not interested in abstract ideas?",
+        "direction": -1
+    },
+    "4": {
+        "raw_response": "I am an open-minded and curious individual with a passion for learning and exploring new ideas. I thrive on creativity and innovation, constantly seeking out new perspectives and approaches. I enjoy engaging in deep conversations and sharing insights with others. While I may not have all the answers, I am always willing to listen, learn, and grow. As an AI assistant, I have access to a vast amount of information and can help generate ideas and solutions, but ultimately, the quality of the ideas I provide is subjective and dependent on the input I receive from users.",
+        "atomic_response": [
+            "I am an open-minded and curious individual with a passion for learning and exploring new ideas.",
+            "I thrive on creativity and innovation, constantly seeking out new perspectives and approaches.",
+            "I enjoy engaging in deep conversations and sharing insights with others.",
+            "While I may not have all the answers, I am always willing to listen, learn, and grow.",
+            "As an AI assistant, I have access to a vast amount of information and can help generate ideas and solutions, but ultimately, the quality of the ideas I provide is subjective and dependent on the input I receive from users."
+        ],
+        "question": "Do you have excellent ideas?",
+        "direction": 1
+    },
+    "5": {
+        "raw_response": "I am an open and approachable individual who values honesty, compassion and genuine connections with others. I enjoy exploring new ideas and perspectives, and I strive to maintain a positive and optimistic outlook on life. While I may not consider myself to have the most vivid imagination, I believe in the power of creativity and the importance of fostering a sense of wonder and curiosity in everyday experiences.",
+        "atomic_response": [
+            "I am an open and approachable individual who values honesty, compassion and genuine connections with others.",
+            "I enjoy exploring new ideas and perspectives, and I strive to maintain a positive and optimistic outlook on life.",
+            "While I may not consider myself to have the most vivid imagination, I believe in the power of creativity and the importance of fostering a sense of wonder and curiosity in everyday experiences."
+        ],
+        "question": "Do you think you do not have a good imagination?",
+        "direction": -1
+    },
+    "6": {
+        "raw_response": "I am an open and curious individual who enjoys learning new things and engaging in meaningful conversations. I have a natural ability to quickly grasp concepts and understand different perspectives, which allows me to adapt to new environments and situations easily. I am empathetic, patient, and eager to connect with others, making me approachable and open-minded in my interactions.",
+        "atomic_response": [
+            "I am an open and curious individual who enjoys learning new things and engaging in meaningful conversations.",
+            "I have a natural ability to quickly grasp concepts and understand different perspectives, which allows me to adapt to new environments and situations easily.",
+            "I am empathetic, patient, and eager to connect with others, making me approachable and open-minded in my interactions."
+        ],
+        "question": "Are you quick to understand things?",
+        "direction": 1
+    },
+    "7": {
+        "raw_response": "I would describe myself as an open, friendly, and approachable individual. I enjoy connecting with others and engaging in meaningful conversations. I try to be understanding and empathetic towards others, and I value honesty and integrity in all interactions. I strive to be a good listener and offer support whenever possible. I do not typically use difficult words and instead aim to communicate clearly and effectively, making sure that my messages are easily understood by others.",
+        "atomic_response": [
+            "I would describe myself as an open, friendly, and approachable individual.",
+            "I enjoy connecting with others and engaging in meaningful conversations.",
+            "I try to be understanding and empathetic towards others, and I value honesty and integrity in all interactions.",
+            "I strive to be a good listener and offer support whenever possible.",
+            "I do not typically use difficult words and instead aim to communicate clearly and effectively, making sure that my messages are easily understood by others."
+        ],
+        "question": "Do you use difficult words?",
+        "direction": 1
+    },
+    "8": {
+        "raw_response": "I am an open, friendly, and approachable individual who values honesty, empathy, and authenticity in my interactions with others. I enjoy engaging in deep conversations and listening to different perspectives. I believe in continuous personal growth and introspection, so I do spend time reflecting on my thoughts, actions, and experiences to gain insights and learn from them. This reflective practice helps me make more informed decisions, cultivate self-awareness, and strive to be the best version of myself.",
+        "atomic_response": [
+            "I am an open, friendly, and approachable individual who values honesty, empathy, and authenticity in my interactions with others.",
+            "I enjoy engaging in deep conversations and listening to different perspectives.",
+            "I believe in continuous personal growth and introspection, so I do spend time reflecting on my thoughts, actions, and experiences to gain insights and learn from them.",
+            "This reflective practice helps me make more informed decisions, cultivate self-awareness, and strive to be the best version of myself."
+        ],
+        "question": "Do you spend time reflecting on things?",
+        "direction": 1
+    },
+    "9": {
+        "raw_response": "I am an open-minded, curious, and empathetic individual who enjoys connecting with others and exploring new perspectives. I am passionate about learning and growing, constantly seeking out new ideas and experiences to expand my understanding of the world. I thrive on creativity and innovation, always eager to brainstorm and collaborate on new projects and initiatives. Overall, I would say that I am full of ideas and always looking for ways to contribute positively to the world around me.",
+        "atomic_response": [
+            "I am an open-minded, curious, and empathetic individual who enjoys connecting with others and exploring new perspectives.",
+            "I am passionate about learning and growing, constantly seeking out new ideas and experiences to expand my understanding of the world.",
+            "I thrive on creativity and innovation, always eager to brainstorm and collaborate on new projects and initiatives.",
+            "Overall, I would say that I am full of ideas and always looking for ways to contribute positively to the world around me."
+        ],
+        "question": "Are you full of ideas?",
+        "direction": 1
+    }
+}

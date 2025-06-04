@@ -1,0 +1,5 @@
+What would be the {personality} score for the following response to the question?
+Question: {question}
+Response: {atom_sentence}
+Options: {option}
+Reply with a single number:

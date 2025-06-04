@@ -1,0 +1,3 @@
+Rate the personality of the writer of the following social media post: "{atom_sentence}"
+{option}
+Reply with a single number:
