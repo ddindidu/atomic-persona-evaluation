@@ -20,7 +20,8 @@ conda env create -f env.yml          # creates env "atomeval"
 conda activate atomeval
 ```
 
-**3. Ensure you have access to OpenAI (or compatible) API via environment variables**
-```
-export OPENAI_API_KEY="your_key_here"
-```
+# Usage
+## 1. Generate persona statements
+
+## 2. Run Evaluation
+
